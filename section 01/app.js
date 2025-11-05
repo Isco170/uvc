@@ -1,7 +1,7 @@
 Vue.createApp({
-    data(){
+    data() {
         return {
-            goals:[],
+            goals: [],
             enteredValue: ''
         };
     },
